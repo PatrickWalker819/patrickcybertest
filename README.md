@@ -2,10 +2,9 @@
 
 <h2>👨‍💻 Homelab Projects:</h2>
 
-- <b>Proxmox and VMware practice and screenshots </b>
-  - 
+- <b>Virtual Machine work </b>
 - <b>Custom built PC and systems</b>
-
+  - [Steel Resilience PC part picker build](https://pcpartpicker.com/b/pWj2FT)
 - <b>SIEM labs</b>
 
 - <b>Active Directory </b>
