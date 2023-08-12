@@ -1,9 +1,14 @@
-<h1>Hi, I'm Patrick! <br/> <a href="https://www.linkedin.com/in/patricklwalker819/">Entry-Level Cybersecurity Specialist</a>, 
+<h1> Print "Hello world!, I'm Patrick!"</h1>
 
-<h2>👨‍💻 Homelab Projects:</h2>
+- <b>📄Education and Certifications</b>
+    <br>-[Bachelor of Science in Business Administration | Management Information Systems Concentration: Alabama A&M University](https://www.aamu.edu/academics/undergraduate-studies/concentration-management-information-systems.html)</br>
+    <br>-[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/E7N5GHG2TF6G) </br>
+
+<h1>👨‍💻 Homelab Projects:</h1>
+
 
 - <b>Virtual Machine work </b>
-- <b>Custom built PC and systems</b>
+- <b>🖥Custom built PC and systems </b>
   - [Steel Resilience PC part picker build](https://pcpartpicker.com/b/pWj2FT)
 - <b>SIEM labs</b>
 
@@ -14,12 +19,14 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
 - <b>Linux Projects </b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python Projects</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
+
+- <b>🐍Python Projects</b>
+  - [Package Delivery Application (Data structures and Algorithms Demo)]
 
 
 <h2> 🤳 Connect with me:</h2>
